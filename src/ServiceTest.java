@@ -23,7 +23,7 @@ public class ServiceTest {
 				
 	}
     //使用KSOAP2,可至下列網址download
-    //use KSOAP2,can go to this url to download *.jar
+    //use KSOAP2,can go to this URL to download *.jar
     //https://code.google.com/archive/p/ksoap2-android/downloads
     public static String CallHellow()
 
